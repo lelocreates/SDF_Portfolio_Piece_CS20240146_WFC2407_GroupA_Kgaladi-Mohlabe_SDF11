@@ -1,19 +1,11 @@
-# Installation
+# SDF Portfolio Piece
+by Kgaladi Mohlabe CS20240146 as a submission to CodeSpace Academy 
 
-```
-# Install dependencies
-npm install
+# Project description
+This project involves creating a landing page for Cache bank, a bank with services tailored to the needs of Software developers. The goal is to develop a responsive, mobile-first web page that provides a seamless user experience across all devices. The tech stack used to achieve this includes HTML to structure the content, CSS by means of Tailwind CSS to style the content effectively and consistently  and JavaScript to create a dynamic navigation bar.
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
+# Presentation links
+ Sildes:
+ Loom video: 
 
-# Compile Tailwind CSS
-npm run build
 
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
